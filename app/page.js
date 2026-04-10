@@ -122,7 +122,6 @@ export default function Portfolio() {
           </a>
         </div>
       </section>
-
     </div>
   );
 }
