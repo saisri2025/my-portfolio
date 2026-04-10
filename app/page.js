@@ -114,7 +114,7 @@ export default function Portfolio() {
         <h2 className="text-3xl font-semibold">Contact Me</h2>
 
         <div className="flex justify-center gap-6 mt-6">
-          <a href="https://github.com/saisri200" target="_blank">
+          <a href="https://github.com/saisri2025" target="_blank">
             <Github />
           </a>
           <a href="mailto:kanchukommulasaisri789@gmail.com">
