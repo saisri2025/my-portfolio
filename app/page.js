@@ -1,3 +1,4 @@
+"use client"
 import { motion } from "framer-motion";
 import { Github, Mail, Moon, Sun } from "lucide-react";
 import { useState } from "react";
