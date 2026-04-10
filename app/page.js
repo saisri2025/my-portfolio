@@ -116,7 +116,7 @@ export default function Portfolio() {
 
         <div className="flex justify-center gap-6 mt-6">
           <a href="https://github.com/saisri2025" target="_blank">
-            <Github />
+            <GitHub />
           </a>
           <a href="mailto:kanchukommulasaisri789@gmail.com">
             <Mail />
