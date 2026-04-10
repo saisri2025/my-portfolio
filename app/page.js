@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Github, Linkedin, Mail, Sun, Moon } from "lucide-react";
+import { Github, Mail, Moon, Sun } from "lucide-react";
 import { useState } from "react";
 
 export default function Portfolio() {
@@ -116,9 +116,6 @@ export default function Portfolio() {
         <div className="flex justify-center gap-6 mt-6">
           <a href="https://github.com/saisri200" target="_blank">
             <Github />
-          </a>
-          <a href="https://www.linkedin.com/in/kanchukommula-saisri6/" target="_blank">
-            <Linkedin />
           </a>
           <a href="mailto:kanchukommulasaisri789@gmail.com">
             <Mail />
