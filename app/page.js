@@ -1,6 +1,6 @@
 "use client"
 import { motion } from "framer-motion";
-import { GitHub, Mail, Moon, Sun } from "lucide-react";
+import { Github, Mail, Moon, Sun } from "lucide-react";
 import { useState } from "react";
 
 export default function Portfolio() {
@@ -116,7 +116,7 @@ export default function Portfolio() {
 
         <div className="flex justify-center gap-6 mt-6">
           <a href="https://github.com/saisri2025" target="_blank">
-            <GitHub />
+            <Github />
           </a>
           <a href="mailto:kanchukommulasaisri789@gmail.com">
             <Mail />
